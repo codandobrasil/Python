@@ -70,10 +70,11 @@ Este projeto requer os seguintes ativos (imagens e sons) para funcionar corretam
 
 Aqui você pode adicionar duas imagens que representem seu projeto, como capturas de tela do jogo ou design de personagens.
 
-![Captura de Tela 1](caminho/para/sua/imagem1.png)
+![Captura de Tela 1](PlataformaSnow/images/snow1.png)
 
-![Captura de Tela 2](caminho/para/sua/imagem2.png)
+![Captura de Tela 2](PlataformaSnow/images/snow2.png)
 
+![Captura de Tela 2](PlataformaSnow/images/snow3.png)
 ## Desenvolvedor
 
 Marcelo Neves
