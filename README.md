@@ -1,4 +1,4 @@
-# Aventura na Plataforma
+# Aventura na Plataforma Snow
 
 Este é um projeto de jogo de plataforma simples desenvolvido em Python utilizando a biblioteca Pygame Zero. O objetivo do jogo é controlar um personagem para navegar pelas plataformas, derrotar inimigos e alcançar a vitória.
 
